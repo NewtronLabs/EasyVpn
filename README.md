@@ -1,1 +1,1 @@
-# EasyOrientation
+# Easy Orientation
